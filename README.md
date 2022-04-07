@@ -4,3 +4,5 @@
 ## These are my main programming languages I worked with this week.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monneky&langs_count=8&count_private=true)
+
+![Ivann's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Monneky)

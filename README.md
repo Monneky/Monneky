@@ -1,7 +1,7 @@
 # 🙈 Hey there! I'm **Cesar Ivann Llamas Macias** 🙈
 
-![Ivann's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Monneky&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Monneky&langs_count=8&count_private=true&layout=compact)
+![Ivann's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monneky&show_icons=true&theme=dark&cache_seconds=60)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Monneky&langs_count=8&count_private=true&layout=compact&cache_seconds=60)
 
 ---
 
